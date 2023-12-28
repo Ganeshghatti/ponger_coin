@@ -4,8 +4,8 @@ import About from './About/About'
 import Tokenism from './Tokenism/Tokenism'
 import Faq from './Faq/Faq'
 import Roadmap from './Roadmap/Roadmap'
-import HowtoClaim from './Howtoclaim/HowtoClaim'
 import "./Home.scss"
+import HowtoClaim from './Howtoclaim/HowtoClaim'
 
 export default function Home() {
   return (
