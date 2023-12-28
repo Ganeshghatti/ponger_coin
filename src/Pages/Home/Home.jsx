@@ -5,14 +5,14 @@ import Tokenism from './Tokenism/Tokenism'
 import Faq from './Faq/Faq'
 import Roadmap from './Roadmap/Roadmap'
 import "./Home.scss"
-// import HowtoClaim from './Howtoclaim/HowtoClaim'
+import HowtoClaim from './Howtoclaim/HowtoClaim'
 
 export default function Home() {
   return (
     <div className='flex flex-col items-center'>
       <Hero/>
       <About/>
-      {/* <HowtoClaim/> */}
+      <HowtoClaim/>
       <Tokenism/>
       <Roadmap/>
       <Faq/>
