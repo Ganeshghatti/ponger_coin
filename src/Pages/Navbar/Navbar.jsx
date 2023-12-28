@@ -116,7 +116,7 @@ export default function Navbar() {
               </a>
             </li>
             <li>
-              <a href="/#Faq" onClick={menuf}>
+              <a href="/#faq" onClick={menuf}>
                 FAQ
               </a>
             </li>
@@ -159,7 +159,7 @@ export default function Navbar() {
           <a href="/#Roadmap">Roadmap</a>
         </li>
         <li>
-          <a href="/#FAQ">FAQ</a>
+          <a href="/#faq">FAQ</a>
         </li>
       </ul>
       <Link to="/shortlisted">

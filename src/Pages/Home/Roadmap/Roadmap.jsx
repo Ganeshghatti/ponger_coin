@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Roadmap() {
   return (
-    <section id='roadmap'>
+    <section id='Roadmap'>
       Roadmap
     </section>
   )
